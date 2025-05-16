@@ -1,4 +1,4 @@
 # Creating a project for GitHub
-# By James Nichols
+# By Bill Martinez
  
 print("COP2002 Fall 2030")
